@@ -1,0 +1,7 @@
+{
+  "name": "IP Intel Pro",
+  "description": "A professional IP WHOIS and intelligence dashboard powered by Gemini. Look up network details, organizational data, and geographical information for any IP address with real-time Google Search grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
